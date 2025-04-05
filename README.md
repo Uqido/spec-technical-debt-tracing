@@ -1,6 +1,6 @@
 # Spec: Technical Debt Tracing v0.0.1
 
-WIP: Brief description
+A set of rules for keeping track of code-level technical debt in Uqido code-base repositories.
 
 ## Dependencies
 
