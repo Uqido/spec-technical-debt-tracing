@@ -1,4 +1,4 @@
-# Spec: Secret References v0.0.1
+# Spec: Technical Debt Tracing v0.0.1
 
 WIP: Brief description
 
