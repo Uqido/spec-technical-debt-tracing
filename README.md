@@ -47,4 +47,4 @@ They differ in the reasons why the final code had been chosen:
   *examples*:
   - an API controller requires in-depth validation of the parameters, but the API is unstable and under-specified, the meaning and structure of the parameters will probably change soon.
 
-Neither of these comments **should** be used to comment code failing acceptance criteria—no fixme, wips or the like—such choices should be managed at team level instead.
+Neither of these comments **should** be used to comment code that will fail acceptance criteria—no FIXMEs, WIPs or the like—such choices should be managed at team level instead.
