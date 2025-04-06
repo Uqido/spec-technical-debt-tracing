@@ -40,11 +40,11 @@ Both IMPROVE and PENDING comments signal that a variant of some piece of code ex
 They differ in the reasons why the final code had been chosen:
 - IMPROVE: the improved version has been deferred due to effort constraints, yet the provided solution still satisfy the acceptance criteria, now and in the foreseeable future.
 
-  *examples*:
+  *example scenarios*:
   - this piece of code is pessimized, it's quadratic, it could be logN ... yet in this stage of the project the quadratic version suffices (or it's even faster in absolute terms), so we choose the quadratic, commenting that an improved log version exists but is not necessary.
 - PENDING: the pending version has been deferred due to lack of information, the risk and cost of overengineering is too high.
 
-  *examples*:
+  *example scenarios*:
   - an API controller requires in-depth validation of the parameters, but the API is unstable and under-specified, the meaning and structure of the parameters will probably change soon.
 
 Neither of these comments **should** be used to comment code that will fail acceptance criteria—no FIXMEs, WIPs or the like—such choices should be managed at team level instead.
