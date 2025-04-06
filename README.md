@@ -13,10 +13,7 @@ Debt, in particular, is beneficial when it is sustainable and contributes to val
 It becomes problematic when it cannot be repaid or leads to inefficiencies in production.  
 Therefore, how a team manages debt is a crucial factor in its ability to create value efficiently.
 
-Since technical debt primarily concerns the *future* impact of today’s decisions, the first priority for any team managing it is to keep track of it.  
-While most technical debt will be kept track in team work management tools, where the actual stories and task reside, there's still
-the need to keep track of debt at the **code-level**, tightly bound to a specific section of code or software component.
-
+Since technical debt primarily concerns the *future* impact of today’s decisions, the first priority for any team managing it is to keep track of it.
 While most technical debt is tracked in team work management tools—alongside the relevant stories and tasks—there is still a need to track debt at
 the **code-level**, directly tied to specific sections of code or individual software components.
 
