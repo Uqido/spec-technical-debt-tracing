@@ -8,12 +8,12 @@ A set of rules for keeping track of code-level technical debt in Uqido code-base
 
 ## Adoption Impact
 
-Software production processes—like any economic production process—generate both credit and debt as byproducts of value creation. These byproducts can be either desirable or undesirable.
-Debt, in particular, is beneficial when it is sustainable and contributes to value creation. 
-It becomes problematic when it cannot be repaid or leads to inefficiencies in production.
+Software production processes—like any economic production process—generate both credit and debt as byproducts of value creation. These byproducts can be either desirable or undesirable.  
+Debt, in particular, is beneficial when it is sustainable and contributes to value creation.
+It becomes problematic when it cannot be repaid or leads to inefficiencies in production.  
 Therefore, how a team manages debt is a crucial factor in its ability to create value efficiently.
 
-Since technical debt primarily concerns the *future* impact of today’s decisions, the first priority for any team managing it is to keep track of it.
+Since technical debt primarily concerns the *future* impact of today’s decisions, the first priority for any team managing it is to keep track of it.  
 While most technical debt will be kept track in team work management tools, where the actual stories and task reside, there's still
 the need to keep track of debt at the **code-level**, tightly bound to a specific section of code or software component.
 
