@@ -8,7 +8,8 @@ A set of rules for keeping track of code-level technical debt in Uqido code-base
 
 ## Adoption Impact
 
-Software production processes—like any economic production process—generate both credit and debt as byproducts of value creation. **These byproducts can be either desirable or undesirable**.  
+Software production processes—like any economic production process—generate both credit and debt as byproducts of value creation.
+**Both of these byproducts can be either desirable or undesirable**.  
 Debt, in particular, is beneficial when it is sustainable and contributes to value creation.
 It becomes problematic when it cannot be repaid or leads to inefficiencies in production.  
 Therefore, how a team manages debt is a crucial factor in its ability to create value efficiently.
