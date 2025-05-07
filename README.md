@@ -4,7 +4,7 @@ A set of rules for keeping track of code-level technical debt in Uqido code-base
 
 ## Dependencies
 
-- https://github.com/Uqido/spec-specification-repository/tree/0.0.1
+- https://github.com/Uqido/spec-specification-repository/tree/v0.0.1
 
 ## Adoption Impact
 
