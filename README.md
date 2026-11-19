@@ -1,10 +1,10 @@
-# Spec: Technical Debt Tracing v0.0.1
+# Spec: Technical Debt Tracing v0.0.2
 
 A set of rules for keeping track of code-level technical debt in Uqido code-base repositories.
 
 ## Dependencies
 
-- https://github.com/Uqido/spec-specification-repository/tree/v0.0.1
+- https://github.com/Uqido/spec-specification-repository/tree/v1.0.1
 
 ## Adoption Impact
 
